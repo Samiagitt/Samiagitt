@@ -6,14 +6,6 @@
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🤖+Building+Real-World+AI+Applications;📊+Data+Science+%7C+Machine+Learning+%7C+GenAI;🚀+Turning+Data+into+Decisions)](https://git.io/typing-svg)
 
-<!-- Profile Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=Samiagit&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Samiagit?style=for-the-badge&color=a855f7&labelColor=1a1a2e)](https://github.com/Samiagit)
-[![GitHub stars](https://img.shields.io/github/stars/Samiagit?style=for-the-badge&color=f59e0b&labelColor=1a1a2e)](https://github.com/Samiagit)
-
-</div>
-
----
 
 ## 👩‍💻 About Me
 
@@ -21,12 +13,10 @@
 class Samia:
     name        = "Samia Tabassum"
     pronouns    = "she/her"
-    username    = "Samiagit"
     education   = "Computer Science Student"
-    focus       = ["Data Science", "Machine Learning", "Generative AI"]
+    focus       = ["Data Science", "Machine Learning", "Generative AI","AI Agentt"]
     passion     = "Building real-world applications that solve real problems"
     currently   = "Exploring LLMs, RAG pipelines & ML-powered apps"
-    fun_fact    = "I debug with coffee ☕ and ship with curiosity 🚀"
 ```
 
 > 🎯 **Mission:** Bridging the gap between data and impact through intelligent, scalable applications.
@@ -53,9 +43,6 @@ class Samia:
 
 ### 🗄️ Databases & Tools
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
@@ -72,30 +59,6 @@ class Samia:
 | **📉 Customer Churn Prediction** | ML app predicting customer churn built with Python, scikit-learn, and Streamlit — full end-to-end pipeline | `Python` `scikit-learn` `Streamlit` | [![Repo](https://img.shields.io/badge/View-Repo-f59e0b?style=flat-square&logo=github)](https://github.com/Samiagit/Customer-churn-prediction) |
 | **💊 Health Insurance Payment Prediction** | Predicts insurance payment amounts based on health & demographic data — complete ML workflow | `Python` `Pandas` `scikit-learn` `Jupyter` | [![Repo](https://img.shields.io/badge/View-Repo-10b981?style=flat-square&logo=github)](https://github.com/Samiagit/Health-Insurance-payment-prediction-App) |
 | **🔄 Layoffs Data Cleaning** | SQL project focused on cleaning and analyzing layoffs dataset — window functions & exploratory analysis | `SQL` `MySQL` `Data Wrangling` | [![Repo](https://img.shields.io/badge/View-Repo-3b82f6?style=flat-square&logo=github)](https://github.com/Samiagit/layoffs-data-cleaning-sql) |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Samiagit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=f59e0b&text_color=ffffff&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Samiagit&theme=tokyonight&hide_border=true&background=0D1117&ring=a855f7&fire=f59e0b&currStreakLabel=ffffff" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samiagit&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=ffffff&layout=compact&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Samiagit&bg_color=0D1117&color=a855f7&line=f59e0b&point=ffffff&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Samiagit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -137,8 +100,7 @@ class Samia:
 
 [![GitHub](https://img.shields.io/badge/GitHub-Samiagit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samiagit)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samia%20Tabassum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samia-tabassum)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samia@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Samiagit)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tabassumsamia7@gmail.com)
 
 </div>
 
