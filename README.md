@@ -11,12 +11,12 @@
 
 ```python
 class Samia:
-    name        = "Samia Tabassum"
-    pronouns    = "she/her"
-    education   = "Computer Science Student"
-    focus       = ["Data Science", "Machine Learning", "Generative AI","AI Agentt"]
-    passion     = "Building real-world applications that solve real problems"
-    currently   = "Exploring LLMs, RAG pipelines & ML-powered apps"
+    name      = "Samia Tabassum"
+    pronouns  = "she/her"
+    education = "Computer Science Student"
+    focus     = ["Data Science", "Machine Learning", "Generative AI", "AI Agent"]
+    passion   = "Building real-world apps that solve real problems"
+    currently = "Exploring LLMs, RAG pipelines & ML-powered apps"
 ```
 
 > 🎯 **Mission:** Bridging the gap between data and impact through intelligent, scalable applications.
