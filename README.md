@@ -49,21 +49,6 @@ class Samia:
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🔬 Project | 📝 Description | 🛠️ Stack | 🔗 Link |
-|:---:|:---|:---:|:---:|
-| **🏥 CancerGuide RAG** | Source-grounded cancer education assistant — answers questions from stored medical documents using RAG pipelines | `LangChain` `OpenAI` `ChromaDB` `NMR Retrieval` | [![Repo](https://img.shields.io/badge/View-Repo-a855f7?style=flat-square&logo=github)](https://github.com/Samiagit/CancerGuide-Rag) |
-| **📉 Customer Churn Prediction** | ML app predicting customer churn built with Python, scikit-learn, and Streamlit — full end-to-end pipeline | `Python` `scikit-learn` `Streamlit` | [![Repo](https://img.shields.io/badge/View-Repo-f59e0b?style=flat-square&logo=github)](https://github.com/Samiagit/Customer-churn-prediction) |
-| **💊 Health Insurance Payment Prediction** | Predicts insurance payment amounts based on health & demographic data — complete ML workflow | `Python` `Pandas` `scikit-learn` `Jupyter` | [![Repo](https://img.shields.io/badge/View-Repo-10b981?style=flat-square&logo=github)](https://github.com/Samiagit/Health-Insurance-payment-prediction-App) |
-| **🔄 Layoffs Data Cleaning** | SQL project focused on cleaning and analyzing layoffs dataset — window functions & exploratory analysis | `SQL` `MySQL` `Data Wrangling` | [![Repo](https://img.shields.io/badge/View-Repo-3b82f6?style=flat-square&logo=github)](https://github.com/Samiagit/layoffs-data-cleaning-sql) |
-
-</div>
-
----
-
 ## 💼 Experience & Education
 
 ```
@@ -106,13 +91,6 @@ class Samia:
 
 ---
 
-<div align="center">
-
-### 💬 A Quote I Live By
-
-> *"The goal is to turn data into information, and information into insight."* — Carly Fiorina
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
